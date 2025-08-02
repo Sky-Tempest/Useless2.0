@@ -5,13 +5,12 @@
 
 
 ## Basic Details
-### Team Name: CodeStorm
+### Team Name: CodeStorm.
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: George Aloysious. - Albertian Institute of Science and Technology.
+- Member 2: George Joseph. - Albertian Institute of Science and Technology.
 
 ### Project Description
 [2-3 lines about what your project does]
