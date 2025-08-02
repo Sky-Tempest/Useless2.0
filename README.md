@@ -68,37 +68,17 @@ For Software:
 
 # Screenshots 
 
+Project Snapshots 1.
+<img width="1920" height="1080" alt="UP1" src="https://github.com/user-attachments/assets/6748f366-cb54-4c31-8082-2079052be9bb" />
 
-<img width="1920" height="1080" alt="UP1" src="https://github.com/user-attachments/assets/4b73368a-ebc2-4c5f-a577-f0fa433e297d" />
+Project Snapshots 2.
+<img width="1920" height="1080" alt="UP2" src="https://github.com/user-attachments/assets/895b9498-5263-46f9-a315-92858b2da172" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Project Snapshots 3.
+<img width="1920" height="1080" alt="UP3" src="https://github.com/user-attachments/assets/6527e1b0-cafd-41b5-8cb2-0c0fa4b1e942" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+Project Snapshots 4.
+<img width="1920" height="1080" alt="UP4" src="https://github.com/user-attachments/assets/089eb45b-a820-4b2f-b12e-6f5550fe02cc" />
 
 ### Project Demo
 # Video
