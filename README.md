@@ -13,26 +13,37 @@
 - Member 2: George Joseph. - Albertian Institute of Science and Technology.
 
 ### Project Description
-[2-3 lines about what your project does]
+A groundbreaking tool that serves no purpose. This project translates the beautifully antiquated language of Morse code into the equally fleeting and ambiguous language of emojis, creating a communication system that is, at best, a complete waste of time.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Morse code, once the backbone of global communication, is simply too… readable.
+For years, people have suffered from being able to accurately interpret a sequence of dots and dashes. That ends now.
+
+The world lacks a system that translates ".... . .-.. .-.. ---" into 🏠🥚🦁🦁🌊.
+A problem nobody noticed—but we sure did.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Presenting: Morse ➡️ Emoji Translator 🎯
+Our software proudly dismantles the efficiency of Morse code by converting it into vibrant, contextless emoji gibberish.
+
+With absolutely no semantic accuracy, this translator:
+  * Replaces letters with fruit and animals 🍕🐝
+  * Confuses linguists and tech bros alike 🤯
+  * Guarantees that no actual communication takes place 💅
+Now, instead of distress signals, you can send dessert signals. 🍨🚨
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: HTML, CSS, JavaScript (the holy trinity of web confusion).
+- Frameworks used: None. Because structure is for serious people.
+- Libraries used: Zero. We handcrafted the chaos.
+- Tools used: VS Code, GitHub, and blind optimism
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Main components: Human fingers (for typing).
+- Specifications: At least one functioning eyeball.
+- Tools required: Keyboard, caffeine, a deep sense of irony.
 
 ### Implementation
 For Software:
