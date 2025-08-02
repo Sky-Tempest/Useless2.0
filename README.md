@@ -69,29 +69,20 @@ For Software:
 # Screenshots 
 
 Project Snapshots 1.
-<img width="1920" height="1080" alt="UP1" src="https://github.com/user-attachments/assets/6748f366-cb54-4c31-8082-2079052be9bb" />
+<img width="1920" height="1080" alt="UP1" src="https://github.com/user-attachments/assets/01bc4905-6036-40f7-81ff-3a411e2cf8b2" />
 
 Project Snapshots 2.
-<img width="1920" height="1080" alt="UP2" src="https://github.com/user-attachments/assets/895b9498-5263-46f9-a315-92858b2da172" />
+<img width="1920" height="1080" alt="UP2" src="https://github.com/user-attachments/assets/35e9b6f3-4073-4deb-9064-804b5345c70e" />
 
 Project Snapshots 3.
-<img width="1920" height="1080" alt="UP3" src="https://github.com/user-attachments/assets/6527e1b0-cafd-41b5-8cb2-0c0fa4b1e942" />
+<img width="1920" height="1080" alt="UP3" src="https://github.com/user-attachments/assets/1f4743e8-695b-431d-b3c3-74700576280d" />
 
 Project Snapshots 4.
-<img width="1920" height="1080" alt="UP4" src="https://github.com/user-attachments/assets/089eb45b-a820-4b2f-b12e-6f5550fe02cc" />
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+<img width="1920" height="1080" alt="UP4" src="https://github.com/user-attachments/assets/ed9acc4e-aa6b-4ffc-9281-020d6d25683d" />
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- George Aloysious:  Contributed to coding and user interface (UI) development.
+- George Joseph:  Contributed to coding.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
