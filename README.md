@@ -46,17 +46,8 @@ For Hardware:
 - Tools required: Keyboard, caffeine, a deep sense of irony.
 
 ### Implementation
-For Software:
-# Installation
-None. Nada. Zilch.
-We don’t believe in “setup” — just open the link and embrace the emoji madness.
-
-🔗 Live Demo: https://your-live-url.com
-
-(Works best on modern browsers. May confuse older adults.)
-
 # Run
-+ Open the above link.
++ Open the above repository.
 + Type some Morse code like ... --- ....
 + Watch it become 🐍🌊🐍 or something equally baffling.
 + Question your priorities.
