@@ -50,6 +50,7 @@ For Software:
 # Installation
 None. Nada. Zilch.
 We don’t believe in “setup” — just open the link and embrace the emoji madness.
+
 🔗 Live Demo: https://your-live-url.com
 
 (Works best on modern browsers. May confuse older adults.)
@@ -65,8 +66,8 @@ No backend. No API. No dependencies. Just vibes.
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+# Screenshots 
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
