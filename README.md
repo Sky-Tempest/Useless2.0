@@ -63,9 +63,6 @@ We don’t believe in “setup” — just open the link and embrace the emoji m
 
 No backend. No API. No dependencies. Just vibes.
 
-### Project Documentation
-For Software:
-
 # Screenshots 
 
 Project Snapshots 1.
