@@ -45,7 +45,6 @@ For Hardware:
 - Specifications: At least one functioning eyeball.
 - Tools required: Keyboard, caffeine, a deep sense of irony.
 
-### Implementation
 # Run
 + Open the above repository.
 + Type some Morse code like ... --- ....
