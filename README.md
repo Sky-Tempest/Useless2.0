@@ -48,10 +48,19 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+None. Nada. Zilch.
+We don’t believe in “setup” — just open the link and embrace the emoji madness.
+🔗 Live Demo: https://your-live-url.com
+
+(Works best on modern browsers. May confuse older adults.)
 
 # Run
-[commands]
++ Open the above link.
++ Type some Morse code like ... --- ....
++ Watch it become 🐍🌊🐍 or something equally baffling.
++ Question your priorities.
+
+No backend. No API. No dependencies. Just vibes.
 
 ### Project Documentation
 For Software:
