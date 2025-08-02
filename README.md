@@ -68,7 +68,8 @@ For Software:
 
 # Screenshots 
 
-*Add caption explaining what this shows*
+
+<img width="1920" height="1080" alt="UP1" src="https://github.com/user-attachments/assets/4b73368a-ebc2-4c5f-a577-f0fa433e297d" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
